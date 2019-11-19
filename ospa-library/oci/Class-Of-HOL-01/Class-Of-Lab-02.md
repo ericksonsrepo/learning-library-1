@@ -1,7 +1,7 @@
 
 ![](./media/image1.png)
 
-## Class of SE - HOL Part 2 - Creating a VCN
+## Rotary Lab Part 2 - Creating a VCN
 
 Contents
 
