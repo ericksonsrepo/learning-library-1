@@ -1,7 +1,7 @@
 ![](./media/image1.png)
 
 
-## Class of SE - HOL Part 3 - Creating and accessing an instance
+## Rotary Lab Part 3 - Creating and accessing an instance
 
 Contents
 
