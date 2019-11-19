@@ -22,7 +22,7 @@ Then we'll create a compartment that will contain the resources we'll create as 
 
 1.  Obtain and access an Oracle Cloud Account
 
-2.  Create Compartment
+2.  Create Compartment / Locate Compartment
 
 ## Requirements
 
@@ -33,20 +33,6 @@ Then we'll create a compartment that will contain the resources we'll create as 
   ## Lab Purpose and Requirements
 
 The purpose of this workshop is to familiarize attendees with the feature functionality of Oracle Cloud Infrastructure. It is assumed that attendees have a solid understanding of basic related concepts such as familiarity with Linux administration, basic network principles, and data storage technologies.
-
-To optimize your experience there are some general guidelines that will help you get the most from these lab exercises.
-
-  - **Read through an entire exercise before executing any of the steps.** 
-  Merely following the screen shots or script files without understanding the flow will diminish your learning experience.
-
-  - **Follow the steps as shown in the workshop manual.**
-    Don’t freestyle during the labs. This is a live environment. If you want to do something that is not in the labs, ask the lab instructor first. In particular, do not create, delete, or alter any database objects without asking first.
-
-  - **There is no prize for finishing first; there is no penalty for finishing last.** 
-  The goal is to gain a firm understanding of Oracle Cloud Infrastructure.
-
-  - **Ask questions freely.** 
-  The only dumb questions are those that are not asked.
 
 # Oracle Cloud Account
 [Back to top](#Class-of-SE---HOL-Part-1---Cloud-access-and-locating-your-compartment)
@@ -125,16 +111,6 @@ your email.  The initial invitation will expire within 24 hours.  If your login 
 [Back to top](#Class-of-SE---HOL-Part-1---Cloud-access-and-locating-your-compartment)
 
 Compartments are logical containers used to isolate resources within your OCI tenancy.    When working with OCI, creating compartments for resource organization is highly recommended.  
-
-There is an absolute limit on OCI compartments and due to the large number of students who will be taking this HOL at the same time, we've created compartments in advance.  You should create your resources in the compartment labeled for your hub location.  
-
-- Austin-Hub
-- Bangalore-Hub
-- Burlington-Hub
-- Reston-Hub
-- SantaMonica-Hub
-
-Please create your resources like VCN and instances within the hub compartment name that matches your physical location.  
 
 For more information on Compartments, like best practices and examples, see the [documentation](https://docs.cloud.oracle.com/iaas/Content/Identity/Tasks/managingcompartments.htm).
 
