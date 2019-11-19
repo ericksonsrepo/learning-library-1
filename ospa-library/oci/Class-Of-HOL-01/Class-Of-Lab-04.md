@@ -1,6 +1,6 @@
 ![](./media/image1.png)
 
-# Class of SE - HOL Part 4 - Block storage and application install
+# Rotary Lab Part 4 - Block storage and application install
 
 Contents
 
