@@ -1,6 +1,6 @@
 ![](./media/image1.png)
 
-## Class of SE - HOL Part 1 - Cloud access and locating your compartment
+## Rotary Lab Part 1 - Cloud access and locating your compartment
 Contents
 
 [Section 1. Overview](#overview)
@@ -22,7 +22,7 @@ Then we'll create a compartment that will contain the resources we'll create as 
 
 1.  Obtain and access an Oracle Cloud Account
 
-2.  Locate your Compartment
+2.  Create Compartment
 
 ## Requirements
 
